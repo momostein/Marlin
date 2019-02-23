@@ -121,6 +121,8 @@ tags
 .pioenvs
 .piolibdeps
 lib/readme.txt
+.clang*
+.gcc*
 
 #Visual Studio
 *.sln
